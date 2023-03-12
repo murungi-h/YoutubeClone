@@ -1,1 +1,1 @@
-This is a simple HTML and CSS Youtube Clone page.
+This is a simple HTML and CSS Youtube Clone.
